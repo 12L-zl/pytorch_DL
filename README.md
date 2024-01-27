@@ -2,7 +2,7 @@
 'Pytorch Deep Learning Master' Study
 <br>  
 
-![image](https://github.com/12L-zl/pytorch_DL_master/assets/137811485/9062247b-4d8b-465b-8022-0dd97b0a57c5)
+![image](https://github.com/12L-zl/pytorch_DL_master/assets/137811485/1278ffbc-247a-4e1e-a4b3-ba56bfe183f0)
 
 <br>
 
